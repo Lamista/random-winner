@@ -1,0 +1,21 @@
+body {
+  background-color: #721b65;
+  text-align: center;
+  font-family: 'Courgette', cursive;
+}
+ h1 {
+  color: #ffd868;
+  margin: 100px 0;
+  font-size: 6rem;
+ }
+
+.player {
+  display: inline-block;
+  color: #f8615a;
+  margin: 50px;
+  font-size: 2rem;
+}
+
+.winner {
+  color: #ffd868;
+}
